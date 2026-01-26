@@ -34,6 +34,20 @@ HyperVTools is inspired by [RVTools](https://www.robware.net/rvtools/) for VMwar
 | Health Checks | Identify potential issues like old checkpoints, missing heartbeats, and cluster imbalances |
 | Color Coding | Visual indicators for power state, CPU usage, memory pressure, and checkpoint age |
 
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshots/vinfo-tab.png" alt="vInfo Tab - Main VM Overview" width="800">
+  <br>
+  <em>vInfo Tab - Main VM overview with power state and resource allocation</em>
+</p>
+
+<p align="center">
+  <img src="images/screenshots/vdisk-tab.png" alt="vDisk Tab - Virtual Hard Disks" width="800">
+  <br>
+  <em>vDisk Tab - Virtual hard disk details with size and fragmentation</em>
+</p>
+
 ## System Requirements
 
 - Windows 11 or Windows Server 2016+
