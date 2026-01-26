@@ -37,13 +37,15 @@ HyperVTools is inspired by [RVTools](https://www.robware.net/rvtools/) for VMwar
 ## Screenshots
 
 <p align="center">
-  <img src="images/screenshots/vinfo-tab.png" alt="vInfo Tab - Main VM Overview" width="800">
+  <img src="images/screenshots/vinfo-tab-01.png" alt="vInfo Tab - Main VM Overview" width="800">
+  <br>
+ <img src="images/screenshots/vinfo-tab-02.png" alt="vInfo Tab - Main VM Overview" width="800">
   <br>
   <em>vInfo Tab - Main VM overview with power state and resource allocation</em>
 </p>
 
 <p align="center">
-  <img src="images/screenshots/vdisk-tab.png" alt="vDisk Tab - Virtual Hard Disks" width="800">
+  <img src="images/screenshots/vdisk-tab-01.png" alt="vDisk Tab - Virtual Hard Disks" width="800">
   <br>
   <em>vDisk Tab - Virtual hard disk details with size and fragmentation</em>
 </p>
