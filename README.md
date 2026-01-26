@@ -38,6 +38,7 @@ HyperVTools is inspired by [RVTools](https://www.robware.net/rvtools/) for VMwar
 
 <p align="center">
   <img src="images/screenshots/vinfo-tab-01.png" alt="vInfo Tab - Main VM Overview" width="800">
+  <br>
   <em>vInfo Tab - Main VM overview with power state and resource allocation within a cluster</em>
   <br>
  <img src="images/screenshots/vinfo-tab-02.png" alt="vInfo Tab - Main VM Overview" width="800">
