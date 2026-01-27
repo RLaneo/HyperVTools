@@ -104,6 +104,10 @@ Freeware - Free for personal and commercial use.
 - Inspired by [RVTools](https://www.robware.net/rvtools/) by Rob de Veij
 - Uses [ClosedXML](https://github.com/ClosedXML/ClosedXML) for Excel export
 
+## Support
+
+If you find HyperVTools useful, consider [buying me a coffee](https://www.paypal.com/donate/?hosted_button_id=ZXF2FPGZ9L858).
+
 ---
 
 © 2026 Robert Lane | [hypervtools.net](https://hypervtools.net)
