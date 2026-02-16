@@ -52,6 +52,12 @@ HyperVTools is inspired by [RVTools](https://www.robware.net/rvtools/) for VMwar
   <em>vDisk Tab - Virtual hard disk details with size and fragmentation</em>
 </p>
 
+<p align="center">
+  <img src="images/screenshots/cli-01.png" alt="CLI Export" width="800">
+  <br>
+  <em>Command line (cmd) export - useable via Task Scheduler</em>
+</p>
+
 ## System Requirements
 
 - Windows 11 or Windows Server 2016+
